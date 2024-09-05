@@ -1,0 +1,5 @@
+pandas
+yfinance==0.2.43
+streamlit==1.38.0
+streamlit_shadcn_ui==0.1.18
+st-paywall
